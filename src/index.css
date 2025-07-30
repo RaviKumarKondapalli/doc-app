@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@media (width < 64rem) {
+  .navigation-sidebar {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+  }
+  .navigation-sidebar.block {
+    display: block;
+  }
+}
