@@ -1,12 +1,34 @@
-# React + Vite
+📘 Help Documentation Web App – Built with React + Vite + Tailwind CSS
+This project is a responsive and lightweight documentation site built using React, Vite, and Tailwind CSS. It serves as a foundation for creating structured help or support content for any product, service, or tool.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Tech Stack
+⚛️ React – UI library for building components
 
-Currently, two official plugins are available:
+⚡ Vite – Fast development server and optimized production build
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Tailwind CSS – Utility-first CSS framework
 
-## Expanding the ESLint configuration
+🧹 ESLint – Code linting and formatting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+Fast and minimal setup
+
+Clean UI with Tailwind
+
+Responsive layout for desktop and mobile
+
+Easy to extend with new help topics or sections
+
+📂 Getting Started
+bash
+Copy
+Edit
+git clone https://github.com/ravikumarkondapalli/doc-app.git
+cd doc-app
+npm install
+npm run dev
+🔗 Live Demo
+https://ravikumarkondapalli.github.io/doc-app/
+
+📦 Download
+Click the Code → Download ZIP option above, or clone using Git.
