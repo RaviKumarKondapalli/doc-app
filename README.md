@@ -10,6 +10,7 @@ This project is a responsive and lightweight documentation site built using Reac
 
 🧹 ESLint – Code linting and formatting
 
+
 🚀 Features
 Fast and minimal setup
 
@@ -19,6 +20,7 @@ Responsive layout for desktop and mobile
 
 Easy to extend with new help topics or sections
 
+
 📂 Getting Started
 bash
 Copy
@@ -27,8 +29,11 @@ git clone https://github.com/ravikumarkondapalli/doc-app.git
 cd doc-app
 npm install
 npm run dev
+
+
 🔗 Live Demo
 https://ravikumarkondapalli.github.io/doc-app/
+
 
 📦 Download
 Click the Code → Download ZIP option above, or clone using Git.
